@@ -53,15 +53,6 @@ This app takes in key laptop features—such as brand, processor, RAM, storage, 
 
 The model achieves a strong R² score, indicating it explains 87% of the variance in laptop prices. The low MAE (in log price) means predictions are close to actual prices.
 
-### Example Predictions
-
-| Brand   | Processor      | RAM  | Storage   | Graphics   | Display | Predicted Price (INR) |
-|---------|---------------|------|-----------|------------|---------|-----------------------|
-| Dell    | Intel Core i5 | 8GB  | 512GB SSD | Intel UHD  | 15.6"   | 52,000                |
-| HP      | AMD Ryzen 5   | 16GB | 1TB HDD   | Radeon     | 14"     | 58,500                |
-| Lenovo  | Intel Core i7 | 16GB | 512GB SSD | MX350      | 15.6"   | 75,000                |
-
----
 
 ---
 
