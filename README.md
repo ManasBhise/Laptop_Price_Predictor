@@ -20,7 +20,7 @@ This app takes in key laptop features—such as brand, processor, RAM, storage, 
 4. **Model Training:** Built and evaluated regression models using scikit-learn to find the best fit for the data.
 5. **Deployment:** Created a user-friendly web app with Streamlit, allowing anyone to use the model online.
 
----
+
 
 ## 🛠️ Technologies Used
 
@@ -30,7 +30,6 @@ This app takes in key laptop features—such as brand, processor, RAM, storage, 
 - Scikit-learn
 - Streamlit
 
----
 
 ## 🌟 Key Features
 
@@ -39,7 +38,7 @@ This app takes in key laptop features—such as brand, processor, RAM, storage, 
 - **End-to-End Data Science:** From raw data to deployed app, all steps are included.
 - **Open Source:** All code and data are available for learning and improvement.
 
----
+
 
 
 
@@ -54,7 +53,7 @@ This app takes in key laptop features—such as brand, processor, RAM, storage, 
 The model achieves a strong R² score, indicating it explains 87% of the variance in laptop prices. The low MAE (in log price) means predictions are close to actual prices.
 
 
----
+
 
 ## 📂 Project Structure
 
@@ -63,7 +62,7 @@ The model achieves a strong R² score, indicating it explains 87% of the varianc
 - `df.pkl`, `pipe.pkl` — Preprocessed data and trained model
 - `requirements.txt` — Python dependencies
 
----
+
 
 ## 👤 Author
 **Manas**
