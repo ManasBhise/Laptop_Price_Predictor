@@ -8,7 +8,7 @@
 
 Welcome to the Laptop Price Predictor! This project is a complete data science solution that leverages machine learning to estimate the price of a laptop based on its specifications. The goal is to provide users with a simple, interactive web app where they can enter details about a laptop and instantly receive a price prediction.
 
----
+
 
 ## 🚀 What Does This Project Do?
 
